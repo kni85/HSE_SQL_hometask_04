@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72ca96c1-64cf-46a8-b498-b9fda4cc9781" name="Changes" comment="downgraded nbconvert==7.16.1 to match with github requrements">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometask_04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hometask_04.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="72ca96c1-64cf-46a8-b498-b9fda4cc9781" name="Changes" comment="moved key from neon.tech to extended neon_key.py and deleted it from ipynb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709649604484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="moved key from neon.tech to extended neon_key.py and deleted it from ipynb">
+      <option name="closed" value="true" />
+      <created>1709651772516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709651772516</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +115,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="gitingnore added" />
     <MESSAGE value="downgraded nbconvert==7.16.1 to match with github requrements" />
-    <option name="LAST_COMMIT_MESSAGE" value="downgraded nbconvert==7.16.1 to match with github requrements" />
+    <MESSAGE value="moved key from neon.tech to extended neon_key.py and deleted it from ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved key from neon.tech to extended neon_key.py and deleted it from ipynb" />
   </component>
 </project>
