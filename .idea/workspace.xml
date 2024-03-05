@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72ca96c1-64cf-46a8-b498-b9fda4cc9781" name="Changes" comment="gitingnore added" />
+    <list default="true" id="72ca96c1-64cf-46a8-b498-b9fda4cc9781" name="Changes" comment="downgraded nbconvert==7.16.1 to match with github requrements">
+      <change beforePath="$PROJECT_DIR$/hometask_04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/hometask_04.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709644569681</updated>
-      <workItem from="1709644832355" duration="3806000" />
+      <workItem from="1709644832355" duration="4197000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -89,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709649117853</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="downgraded nbconvert==7.16.1 to match with github requrements">
+      <option name="closed" value="true" />
+      <created>1709649604484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709649604484</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="gitingnore added" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitingnore added" />
+    <MESSAGE value="downgraded nbconvert==7.16.1 to match with github requrements" />
+    <option name="LAST_COMMIT_MESSAGE" value="downgraded nbconvert==7.16.1 to match with github requrements" />
   </component>
 </project>
